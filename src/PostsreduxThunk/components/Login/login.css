@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+.login{
+    height: 100vh !important;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.login .row {
+    height: 100vh !important;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login .title{
+    color: rgb(0, 209, 209);
+    font-weight: bolder;
+    font-family: 'Pacifico';
+    text-shadow: 1px 0px 3px  aqua;
+}
+
+.login img{
+    width: 100%;
+}
+
+.login .CNA:hover{
+    background: rgb(22, 134, 0) !important;
+}
+
